@@ -1,0 +1,14 @@
+{
+    "tool_server":{
+        "transport": "streamable_http",
+        "url": "http://127.0.0.1:8001/toolserver"
+    },
+    "advanced_tool_server":{
+        "transport": "streamable_http",
+        "url": "http://127.0.0.1:8002/advtoolserver"
+    },
+    "elicitation_server":{
+        "transport": "streamable_http",
+        "url": "http://127.0.0.1:8006/elicitationserver"
+    }
+}

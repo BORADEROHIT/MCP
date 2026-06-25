@@ -1,0 +1,9 @@
+{
+    "mcpServers":{
+        "demo_server":{
+            "transport": "streamable-http",
+            "auth": "None",
+            "url": "http://127.0.0.1:8000/my_mcp"
+        }
+    }
+}
